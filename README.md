@@ -1,6 +1,7 @@
 # SoreEyes_HUD
 This is an amateur attempt at creating my own HUD for an FPS Shooter.
 =====================================================================
+
 As the description  says, this is a personal attempt at creating a
 HUD for the videogame Team Fortress 2.
 This is NOT supposed to be a "better" HUD. I am solely creating this
@@ -17,5 +18,13 @@ C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom
 Note: If you have installed TF2 onto a different drive, then use that
  drive. Tbh, I shouldn't even tell you that. The same applies if you
  have installed TF2 into a differnet directory.
- 
+
+===================================================================
+
+If you wish to make improvements, feel free to do so! This is my
+very first time creating a HUD. I WILL make mistakes and
+questionable choises.
+
+===================================================================
+
 One last note: Please excuse any spelling and grammar mistakes.
