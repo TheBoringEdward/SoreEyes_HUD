@@ -1,4 +1,4 @@
-# SoreEyes_HUD
+# SoreEyes_HUD(Alpha)
 This is an amateur attempt at creating my own HUD for an FPS Shooter.
 =====================================================================
 
