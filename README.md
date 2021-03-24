@@ -19,10 +19,14 @@ Note: If you have installed TF2 onto a different drive, then use that
  drive. Tbh, I shouldn't even tell you that. The same applies if you
  have installed TF2 into a differnet directory.
 
+IMPORTANT:
+This HUD only works on a 16:9 resolution. I have yet to figure out,
+how to use the "C" values for placement.
+
 ===================================================================
 
-If you wish to make improvements, feel free to do so! This is my
-very first time creating a HUD. I WILL make mistakes and
+If you wish to make improvements, feel free to make a push request!
+This is my very first time creating a HUD. I WILL make mistakes and
 questionable choises.
 
 ===================================================================
