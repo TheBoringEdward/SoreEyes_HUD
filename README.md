@@ -12,11 +12,11 @@ for personal use. However if anyone else finds interest in using it,
 then be my guest and enjoy this HUD.
 
 # How to install:
-Put the folder containing the HUD into the following directory:
+Put the HUD folder into the following directory:
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom
 
 Note: If you have installed TF2 onto a different drive, then use that
- drive. Tbh, I shouldn't even tell you that. The same applies if you
+ drive. The same applies if you
  have installed TF2 into a different directory.
 
 IMPORTANT:
