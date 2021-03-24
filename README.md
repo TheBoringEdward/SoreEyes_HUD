@@ -17,7 +17,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom
 
 Note: If you have installed TF2 onto a different drive, then use that
  drive. Tbh, I shouldn't even tell you that. The same applies if you
- have installed TF2 into a differnet directory.
+ have installed TF2 into a different directory.
 
 IMPORTANT:
 This HUD only works on a 16:9 resolution. I have yet to figure out,
